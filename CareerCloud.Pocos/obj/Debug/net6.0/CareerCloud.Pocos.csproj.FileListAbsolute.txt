@@ -1,0 +1,11 @@
+D:\HUMBER COLLEGE\COURSES DEEP _ya las clases\NET 012 C#  and Windows desktop applications\Assigment 1\PROJECT\CareerCloud\CareerCloud.Pocos\bin\Debug\net6.0\CareerCloud.Pocos.deps.json
+D:\HUMBER COLLEGE\COURSES DEEP _ya las clases\NET 012 C#  and Windows desktop applications\Assigment 1\PROJECT\CareerCloud\CareerCloud.Pocos\bin\Debug\net6.0\CareerCloud.Pocos.dll
+D:\HUMBER COLLEGE\COURSES DEEP _ya las clases\NET 012 C#  and Windows desktop applications\Assigment 1\PROJECT\CareerCloud\CareerCloud.Pocos\bin\Debug\net6.0\CareerCloud.Pocos.pdb
+D:\HUMBER COLLEGE\COURSES DEEP _ya las clases\NET 012 C#  and Windows desktop applications\Assigment 1\PROJECT\CareerCloud\CareerCloud.Pocos\obj\Debug\net6.0\CareerCloud.Pocos.GeneratedMSBuildEditorConfig.editorconfig
+D:\HUMBER COLLEGE\COURSES DEEP _ya las clases\NET 012 C#  and Windows desktop applications\Assigment 1\PROJECT\CareerCloud\CareerCloud.Pocos\obj\Debug\net6.0\CareerCloud.Pocos.AssemblyInfoInputs.cache
+D:\HUMBER COLLEGE\COURSES DEEP _ya las clases\NET 012 C#  and Windows desktop applications\Assigment 1\PROJECT\CareerCloud\CareerCloud.Pocos\obj\Debug\net6.0\CareerCloud.Pocos.AssemblyInfo.cs
+D:\HUMBER COLLEGE\COURSES DEEP _ya las clases\NET 012 C#  and Windows desktop applications\Assigment 1\PROJECT\CareerCloud\CareerCloud.Pocos\obj\Debug\net6.0\CareerCloud.Pocos.csproj.CoreCompileInputs.cache
+D:\HUMBER COLLEGE\COURSES DEEP _ya las clases\NET 012 C#  and Windows desktop applications\Assigment 1\PROJECT\CareerCloud\CareerCloud.Pocos\obj\Debug\net6.0\CareerCloud.Pocos.dll
+D:\HUMBER COLLEGE\COURSES DEEP _ya las clases\NET 012 C#  and Windows desktop applications\Assigment 1\PROJECT\CareerCloud\CareerCloud.Pocos\obj\Debug\net6.0\refint\CareerCloud.Pocos.dll
+D:\HUMBER COLLEGE\COURSES DEEP _ya las clases\NET 012 C#  and Windows desktop applications\Assigment 1\PROJECT\CareerCloud\CareerCloud.Pocos\obj\Debug\net6.0\CareerCloud.Pocos.pdb
+D:\HUMBER COLLEGE\COURSES DEEP _ya las clases\NET 012 C#  and Windows desktop applications\Assigment 1\PROJECT\CareerCloud\CareerCloud.Pocos\obj\Debug\net6.0\ref\CareerCloud.Pocos.dll
