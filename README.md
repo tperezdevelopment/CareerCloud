@@ -5,4 +5,4 @@
     Author:          Tania Perez Ramirez
     Description: 	 This is the Career Cloud project. Rest API and gRPC developed. 
 	                 Full stack .Net Cloud Developer Program at Humber College
-	
+	.Net 6
